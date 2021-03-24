@@ -1,6 +1,4 @@
-# Lichtsirene
-#heisser Draht
-
+# Heißer Draht
 Beim Spiel „Der heiße Draht“ führen die Schüler*innen einen Spielstab entlang 
 einer Bahn aus Draht, ohne den Draht zu berühren. 
 Passiert es doch, wird dies durch ein Licht-oder Tonsignal gemeldet. 
@@ -135,4 +133,5 @@ Super, du hast die Programmierung des Spiels geschafft!
 Klicke auf ``|Herunterladen|``, um dein Programm auf deinen Calliope mini zu übertragen und Klavier zu spielen.
 
 ```template
+
 ```
